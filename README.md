@@ -4,6 +4,13 @@
 
 ---
 
+**Game link** 
+```
+https://filmfusion-kohl.vercel.app/
+```
+
+---
+
 ## 🚀 Features  
 
 - 🎯 Guess the **Actor, Actress, and Movie** from hints  
@@ -70,3 +77,10 @@ https://filmfusion-b98i.onrender.com
   }
 
 ```
+
+## 🙋‍♂️ Author
+---
+- **Rajnikant**  
+  [GitHub Profile](https://github.com/rajni2209)
+
+---
